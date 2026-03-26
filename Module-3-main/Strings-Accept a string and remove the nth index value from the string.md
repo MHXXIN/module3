@@ -22,7 +22,8 @@ def remove(a):
             print(a[i],end='')
 
 ## Output
-![Uploading image.png…]()
+**<img width="1190" height="302" alt="image" src="https://github.com/user-attachments/assets/dbc1a632-8a48-4df5-ab35-62df652411de" />
+**
 
 ## Result
 Thus the program executed successfully.
